@@ -1,22 +1,81 @@
 <h1 align="center">Hi 👋, I'm Badhan</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">Full Stack Developer • Tech Enthusiast • Lifelong Learner</h3>
 
-- My project [Calculator](https://github.com/badhan3-alt/Calculator.git)
-
-- 🌱 I’m currently learning **javascript,react**
-
-- My project [BDShop](https://github.com/badhan3-alt/BDShop.git)
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **badhandas715@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/badhan-das-8a5a92363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/badhan-das-8a5a92363" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/163ppsunkx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/163ppsunkx/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/badhan_0.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/badhan_0.8" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.tenor.com/QVC1Yw2WcUEAAAAj/coding.gif" width="200"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 Currently Learning
+- JavaScript & React ⚛️  
+- Deepening Django skills 🐍  
+- Problem Solving & Competitive Programming  
+
+---
+
+### 🚀 Working On
+- 🧮 **Calculator App** → [View Project](https://github.com/badhan3-alt/Calculator)  
+- 🛒 **BDShop (E-commerce Web App)** → [View Project](https://github.com/badhan3-alt/BDShop)  
+- Exploring new full-stack ideas 💡  
+
+---
+
+### 🎯 Goals for 2025
+- Build **3+ high-quality full-stack projects**  
+- Master MERN + Django Rest Framework  
+- Publish a personal **portfolio website**  
+- Contribute to **Open Source**  
+- Level up in programming & logic 🔥  
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/badhan-das-8a5a92363" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="https://www.facebook.com/share/163ppsunkx/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+</a>
+<a href="https://instagram.com/badhan_0.8" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,bootstrap,git,github,django,mysql,sqlite,linux,c,cpp" />
+</p>
+
+---
+
+### 🖥️ Fun Terminal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=450&lines=Hello+I'm+Badhan!;Full+Stack+Developer;Open+Source+Lover;Always+Learning+New+Things" />
+</p>
+
+---
+
+### 🐧 Fun Fact
+- I break my code **100 times** but fix it like a boss 😎  
+- Coding + Coffee = 💜  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badhan3-alt&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=badhan3-alt&theme=tokyonight" height="170"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhan3-alt&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+### 🌟 Thanks for Visiting!
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ6G9pTMAAAAd/thanks-thank-you.gif" width="250">
+</p>
