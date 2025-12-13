@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 <a href="https://www.facebook.com/share/163pPSuNkX/ " target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="48" />
 </a>
 <a href="https://instagram.com/badhan_0.8" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
