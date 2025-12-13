@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/badhan-das-8a5a92363" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-<a href="https://www.facebook.com/share/163ppsunkx/" target="_blank">
+<a href="https://www.facebook.com/share/163pPSuNkX/ " target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
 </a>
 <a href="https://instagram.com/badhan_0.8" target="_blank">
